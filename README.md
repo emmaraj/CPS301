@@ -1,4 +1,5 @@
 # CPS301
+**INSTRUCTIONS**
 Clone this project<br>
 Create a branch and name the branch using your ID number without the "/" e.g. U18CPS101<br>
 push the changes to the original project<br>
