@@ -1,6 +1,8 @@
 # CPS301
 **INSTRUCTIONS**<br><br>
 Clone this project<br>
+updated...
+<br>
 Create a branch and name the branch using your ID number without the "/" e.g. U18CPS101<br>
 push the changes to the original project<br>
 make a pull request<br><br>
