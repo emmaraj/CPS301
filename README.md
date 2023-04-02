@@ -1,4 +1,5 @@
-# CPS301
+# Msambo36
+u19/cps/1036
 **INSTRUCTIONS**<br><br>
 Clone this project<br>
 Create a branch and name the branch using your ID number without the "/" e.g. U18CPS101<br>
